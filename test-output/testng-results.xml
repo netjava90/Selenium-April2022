@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="21148" started-at="2022-05-30T23:55:52Z" finished-at="2022-05-30T23:56:13Z">
+    <groups>
+    </groups>
+    <test name="Selenium-April2022" duration-ms="21148" started-at="2022-05-30T23:55:52Z" finished-at="2022-05-30T23:56:13Z">
+      <class name="test.SearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.SearchTest@79698539]" name="setUp" is-config="true" duration-ms="16521" started-at="2022-05-30T23:55:52Z" finished-at="2022-05-30T23:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:test.SearchTest@79698539]" name="test3" duration-ms="3856" started-at="2022-05-30T23:56:08Z" finished-at="2022-05-30T23:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.SearchTest@79698539]" name="tearDown" is-config="true" duration-ms="738" started-at="2022-05-30T23:56:12Z" finished-at="2022-05-30T23:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.SearchTest -->
+    </test> <!-- Selenium-April2022 -->
+  </suite> <!-- Default Suite -->
+</testng-results>

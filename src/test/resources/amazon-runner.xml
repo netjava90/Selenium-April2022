@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="amazon smoke test">
+    <test name="floating menu test">
+        <classes>
+                <class name="test.FloatingMenuTest"></class>
+        </classes>
+    </test>
+     <test name="search test">
+     <classes>
+               <class name="test.SearchTest"></class>
+        </classes>
+     </test>
+    <test name="dropdown test">
+        <classes>
+            <class name="test.DropdownTest"></class>
+        </classes>
+    </test>
+</suite>
